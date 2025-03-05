@@ -1,0 +1,23 @@
+{
+    "results": [
+        {
+            "question": "What is antique appraisal?",
+            "google_answer": "This is a mock answer about antique appraisal.",
+            "google_answer_source_url": "https://example.com",
+            "google_answer_source_title": "Example Source"
+        },
+        {
+            "question": "How to find antique appraisal services?",
+            "google_answer": "You can find antique appraisal services by searching online or asking for recommendations.",
+            "google_answer_source_url": "https://example.com/services",
+            "google_answer_source_title": "Finding Services"
+        },
+        {
+            "question": "How much does antique appraisal cost?",
+            "google_answer": "The cost of antique appraisal varies depending on various factors.",
+            "google_answer_source_url": "https://example.com/cost",
+            "google_answer_source_title": "Cost Information"
+        }
+    ],
+    "mock_data": true
+}
